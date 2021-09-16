@@ -2,4 +2,4 @@ hola mucho gusto
 
  este es mi primer dia en git 
 
- como profesional 
+no soy profesional

@@ -1,5 +1,7 @@
 hola mucho gusto 
 
+soy nuevo en este mes en git 
  este es mi primer dia en git 
 
+estamos pro en minutos
 no soy profesional

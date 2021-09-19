@@ -9,3 +9,5 @@ no soy profesional
 ahora estamos en linux "ubuntu 20.04"
 
 ahora sii
+
+no guarda los cambos 
